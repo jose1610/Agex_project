@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Xd7DBFD0zkWB1xL/OLq+1ycWrcOs9z8wK0vNT83aU4E=",
+  "Source": "AGEX.API",
+  "BasePath": "_content/AGEX.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

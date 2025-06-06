@@ -1,0 +1,178 @@
+[
+  {
+    "ContainingType": "AGEX.API.Controllers.EmployeeController",
+    "Method": "DeleteEmployee",
+    "RelativePath": "api/v1/Employee/DeleteEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AGEX.CORE.Dtos.Employees.Delete.DeleteEmployeeReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AGEX.API.Controllers.EmployeeController",
+    "Method": "GetEmployee",
+    "RelativePath": "api/v1/Employee/GetEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AGEX.CORE.Dtos.Employees.Get.GetEmployeeReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AGEX.API.Controllers.EmployeeController",
+    "Method": "RegisterEmployee",
+    "RelativePath": "api/v1/Employee/RegisterEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AGEX.CORE.Dtos.Employees.Register.RegisterEmployeeReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AGEX.API.Controllers.EmployeeController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "api/v1/Employee/UpdateEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AGEX.CORE.Dtos.Employees.Update.UpdateEmployeeReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AGEX.API.Controllers.OrderController",
+    "Method": "DeleteOrder",
+    "RelativePath": "api/v1/Order/DeleteOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AGEX.CORE.Dtos.Orders.Delete.DeleteOrderReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AGEX.API.Controllers.OrderController",
+    "Method": "GetOrder",
+    "RelativePath": "api/v1/Order/GetOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AGEX.CORE.Dtos.Orders.Get.GetOrdersReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AGEX.API.Controllers.OrderController",
+    "Method": "RegisterOrder",
+    "RelativePath": "api/v1/Order/RegisterOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AGEX.CORE.Dtos.Orders.Register.RegisterOrderReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AGEX.API.Controllers.OrderController",
+    "Method": "UpdateOrder",
+    "RelativePath": "api/v1/Order/UpdateOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AGEX.CORE.Dtos.Orders.Update.UpdateOrderReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AGEX.API.Controllers.UserController",
+    "Method": "GetUsers",
+    "RelativePath": "api/v1/User/GetUsers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AGEX.CORE.Dtos.Login.Get.GetUsersReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AGEX.API.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/v1/User/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AGEX.CORE.Dtos.Login.Enter.LoginReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AGEX.API.Controllers.UserController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/v1/User/RegisterUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AGEX.CORE.Dtos.Login.Register.RegisterUserReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

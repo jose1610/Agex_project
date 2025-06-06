@@ -1,0 +1,11 @@
+C:\Users\jmota\Documents\INTEGRACIÓN\Proyectos Visual\AGEX\API\AGEX.WEB.API.DASHBOARD\AGEX.CORE\bin\Debug\net8.0\AGEX.CORE.deps.json
+C:\Users\jmota\Documents\INTEGRACIÓN\Proyectos Visual\AGEX\API\AGEX.WEB.API.DASHBOARD\AGEX.CORE\bin\Debug\net8.0\AGEX.CORE.dll
+C:\Users\jmota\Documents\INTEGRACIÓN\Proyectos Visual\AGEX\API\AGEX.WEB.API.DASHBOARD\AGEX.CORE\bin\Debug\net8.0\AGEX.CORE.pdb
+C:\Users\jmota\Documents\INTEGRACIÓN\Proyectos Visual\AGEX\API\AGEX.WEB.API.DASHBOARD\AGEX.CORE\obj\Debug\net8.0\AGEX.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmota\Documents\INTEGRACIÓN\Proyectos Visual\AGEX\API\AGEX.WEB.API.DASHBOARD\AGEX.CORE\obj\Debug\net8.0\AGEX.CORE.AssemblyInfoInputs.cache
+C:\Users\jmota\Documents\INTEGRACIÓN\Proyectos Visual\AGEX\API\AGEX.WEB.API.DASHBOARD\AGEX.CORE\obj\Debug\net8.0\AGEX.CORE.AssemblyInfo.cs
+C:\Users\jmota\Documents\INTEGRACIÓN\Proyectos Visual\AGEX\API\AGEX.WEB.API.DASHBOARD\AGEX.CORE\obj\Debug\net8.0\AGEX.CORE.csproj.CoreCompileInputs.cache
+C:\Users\jmota\Documents\INTEGRACIÓN\Proyectos Visual\AGEX\API\AGEX.WEB.API.DASHBOARD\AGEX.CORE\obj\Debug\net8.0\AGEX.CORE.dll
+C:\Users\jmota\Documents\INTEGRACIÓN\Proyectos Visual\AGEX\API\AGEX.WEB.API.DASHBOARD\AGEX.CORE\obj\Debug\net8.0\refint\AGEX.CORE.dll
+C:\Users\jmota\Documents\INTEGRACIÓN\Proyectos Visual\AGEX\API\AGEX.WEB.API.DASHBOARD\AGEX.CORE\obj\Debug\net8.0\AGEX.CORE.pdb
+C:\Users\jmota\Documents\INTEGRACIÓN\Proyectos Visual\AGEX\API\AGEX.WEB.API.DASHBOARD\AGEX.CORE\obj\Debug\net8.0\ref\AGEX.CORE.dll
